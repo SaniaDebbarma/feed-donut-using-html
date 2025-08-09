@@ -14,7 +14,7 @@ An interactive browser game where you feed a cute pixelated bear by dragging and
 
 ## 📷 Preview  
 ![feed donut]()  
-screenshot 
+Screenshot.jpg
 
 ## 🚀 How to Run  
 1. Clone the repository:  
