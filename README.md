@@ -13,8 +13,8 @@ An interactive browser game where you feed a cute pixelated bear by dragging and
 - Mobile-friendly with touch support  
 
 ## 📷 Preview  
-![Hungry Bear Demo]()  
-*(Add a screenshot or GIF of your game here)*  
+![feed donut]()  
+screenshot 
 
 ## 🚀 How to Run  
 1. Clone the repository:  
